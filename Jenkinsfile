@@ -25,6 +25,7 @@ pipeline {
 
   success{
      echo 'Build success'
+      echo "added - again"
   }
     
   failure{
